@@ -1,0 +1,10 @@
+testcases\ValidateProductPriceOnProductsPage.class
+testcases\ValidateProductPriceCartPage.class
+testcases\ValidateProductPricePlaceOrder.class
+testcases\ValidateMenMenuItem.class
+testcases\ValidateProductPriceAfterPlaceOrder.class
+testcases\ValidateShoesMenuItem.class
+testcases\ValidateSportMenuItem.class
+testcases\ValidateOtherMenuItem.class
+testcases\ValidateWomanMenuItem.class
+testcases\Listeners.class

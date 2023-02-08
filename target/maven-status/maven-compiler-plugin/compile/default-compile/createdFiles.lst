@@ -1,0 +1,7 @@
+pageobjects\HomePage.class
+pageobjects\OrderPage.class
+pageobjects\ProductBrownShoesPage.class
+resources\base.class
+pageobjects\CheckoutPage.class
+pageobjects\CartPage.class
+resources\ExtentReporterNG.class

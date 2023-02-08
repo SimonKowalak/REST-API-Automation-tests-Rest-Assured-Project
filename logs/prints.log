@@ -1,0 +1,280 @@
+13:03:16.591 [main] INFO  testcases.ValidateMenMenuItem - Driver is initiated
+13:03:18.323 [main] INFO  testcases.ValidateOtherMenuItem - Driver is initiated
+13:03:19.956 [main] INFO  testcases.ValidateShoesMenuItem - Driver is initiated
+13:03:21.692 [main] INFO  testcases.ValidateSportMenuItem - Driver is initiated
+13:03:23.511 [main] INFO  testcases.ValidateWomanMenuItem - Driver is initiated
+13:03:27.185 [pool-4-thread-2] INFO  testcases.ValidateMenMenuItem - Base url is open
+13:03:27.244 [pool-4-thread-1] INFO  testcases.ValidateShoesMenuItem - Base url is open
+13:03:27.281 [pool-4-thread-2] INFO  testcases.ValidateMenMenuItem - Element text taken
+13:03:27.321 [pool-4-thread-1] INFO  testcases.ValidateShoesMenuItem - Element text taken
+13:03:27.322 [pool-4-thread-1] INFO  testcases.ValidateShoesMenuItem - Menu item text is validated
+13:03:28.989 [pool-4-thread-1] INFO  testcases.ValidateWomanMenuItem - Base url is open
+13:03:29.113 [pool-4-thread-1] INFO  testcases.ValidateWomanMenuItem - Element text taken
+13:03:29.114 [pool-4-thread-1] INFO  testcases.ValidateWomanMenuItem - Menu item text is validated
+13:03:30.117 [pool-4-thread-2] INFO  testcases.ValidateSportMenuItem - Base url is open
+13:03:30.206 [pool-4-thread-2] INFO  testcases.ValidateSportMenuItem - Element text taken
+13:03:30.206 [pool-4-thread-2] INFO  testcases.ValidateSportMenuItem - Menu item text is validated
+13:03:30.757 [pool-4-thread-1] INFO  testcases.ValidateOtherMenuItem - Base url is open
+13:03:30.827 [pool-4-thread-1] INFO  testcases.ValidateOtherMenuItem - Element text taken
+13:03:30.827 [pool-4-thread-1] INFO  testcases.ValidateOtherMenuItem - Menu item text is validated
+13:03:31.073 [main] INFO  testcases.ValidateMenMenuItem - Driver closed
+13:03:31.315 [main] INFO  testcases.ValidateOtherMenuItem - Driver closed
+13:03:31.479 [main] INFO  testcases.ValidateShoesMenuItem - Driver closed
+13:03:31.626 [main] INFO  testcases.ValidateSportMenuItem - Driver closed
+13:03:31.817 [main] INFO  testcases.ValidateWomanMenuItem - Driver closed
+13:03:33.909 [main] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Driver was initiated
+13:03:35.532 [main] INFO  testcases.ValidateProductPriceCartPage - Driver is initiated
+13:03:37.137 [main] INFO  testcases.ValidateProductPriceOnProductsPage - Driver is initiated
+13:03:38.880 [main] INFO  testcases.ValidateProductPricePlaceOrder - Driver is initiated
+13:03:40.569 [pool-5-thread-2] INFO  testcases.ValidateProductPriceCartPage - Base url is open
+13:03:40.642 [pool-5-thread-1] INFO  testcases.ValidateProductPriceOnProductsPage - Base url is open
+13:03:42.059 [pool-5-thread-1] INFO  testcases.ValidateProductPriceOnProductsPage - Product image as link is clicked
+13:03:42.147 [pool-5-thread-1] INFO  testcases.ValidateProductPriceOnProductsPage - Price text taken first time
+13:03:42.180 [pool-5-thread-2] INFO  testcases.ValidateProductPriceCartPage - Product image as link is clicked
+13:03:42.249 [pool-5-thread-2] INFO  testcases.ValidateProductPriceCartPage - Price text taken first time
+13:03:42.490 [pool-5-thread-1] INFO  testcases.ValidateProductPriceOnProductsPage - Navigated back
+13:03:42.556 [pool-5-thread-1] INFO  testcases.ValidateProductPriceOnProductsPage - Price text taken second time
+13:03:42.556 [pool-5-thread-1] INFO  testcases.ValidateProductPriceOnProductsPage - Price comparison is correct
+13:03:43.932 [pool-5-thread-2] INFO  testcases.ValidateProductPriceCartPage - Add to cart button is clicked
+13:03:44.039 [pool-5-thread-2] INFO  testcases.ValidateProductPriceCartPage - Price text taken second time
+13:03:44.196 [pool-5-thread-1] INFO  testcases.ValidateProductPricePlaceOrder - Base url is open
+13:03:45.615 [pool-5-thread-1] INFO  testcases.ValidateProductPricePlaceOrder - Product image as link is clicked
+13:03:45.686 [pool-5-thread-1] INFO  testcases.ValidateProductPricePlaceOrder - Price text taken first time
+13:03:45.712 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Base url was opened
+13:03:47.032 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Product image as link is clicked
+13:03:47.116 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Price text taken first time
+13:03:47.252 [pool-5-thread-1] INFO  testcases.ValidateProductPricePlaceOrder - Add to cart button is clicked
+13:03:48.453 [pool-5-thread-1] INFO  testcases.ValidateProductPricePlaceOrder - Proceed to checkout button is clicked
+13:03:48.547 [pool-5-thread-1] INFO  testcases.ValidateProductPricePlaceOrder - Price text taken second time
+13:03:48.547 [pool-5-thread-1] INFO  testcases.ValidateProductPricePlaceOrder - Price comparison is correct
+13:03:48.607 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Add to cart button is clicked
+13:03:49.724 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Proceed to checkout button is clicked
+13:03:49.927 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - First name field is filled
+13:03:50.083 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Last name field is filled
+13:03:50.296 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Address field is filled
+13:03:50.458 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Post code field is filled
+13:03:50.612 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - City name field is filled
+13:03:50.764 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Phone number field is filled
+13:03:50.908 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Email field is filled
+13:03:51.544 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Place order button is clicked
+13:03:53.349 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Price text taken second time
+13:03:53.349 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Price comparison is correct
+13:03:53.426 [main] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Driver closed
+13:03:53.527 [main] INFO  testcases.ValidateProductPriceCartPage - Driver closed
+13:03:53.635 [main] INFO  testcases.ValidateProductPriceOnProductsPage - Driver closed
+13:03:53.805 [main] INFO  testcases.ValidateProductPricePlaceOrder - Driver closed
+17:05:55.156 [main] INFO  testcases.ValidateMenMenuItem - Driver is initiated
+17:05:57.845 [main] INFO  testcases.ValidateOtherMenuItem - Driver is initiated
+17:06:00.210 [main] INFO  testcases.ValidateShoesMenuItem - Driver is initiated
+17:06:02.747 [main] INFO  testcases.ValidateSportMenuItem - Driver is initiated
+17:06:06.210 [main] INFO  testcases.ValidateWomanMenuItem - Driver is initiated
+17:06:10.632 [TestNG-test=Price validation-2] INFO  testcases.ValidateMenMenuItem - Base url is open
+17:06:10.633 [TestNG-test=Price validation-1] INFO  testcases.ValidateShoesMenuItem - Base url is open
+17:06:10.728 [TestNG-test=Price validation-1] INFO  testcases.ValidateShoesMenuItem - Element text taken
+17:06:10.728 [TestNG-test=Price validation-2] INFO  testcases.ValidateMenMenuItem - Element text taken
+17:06:10.731 [TestNG-test=Price validation-1] INFO  testcases.ValidateShoesMenuItem - Menu item text is validated
+17:06:12.906 [TestNG-test=Price validation-1] INFO  testcases.ValidateWomanMenuItem - Base url is open
+17:06:13.175 [TestNG-test=Price validation-1] INFO  testcases.ValidateWomanMenuItem - Element text taken
+17:06:13.175 [TestNG-test=Price validation-1] INFO  testcases.ValidateWomanMenuItem - Menu item text is validated
+17:06:14.440 [TestNG-test=Price validation-2] INFO  testcases.ValidateSportMenuItem - Base url is open
+17:06:14.653 [TestNG-test=Price validation-2] INFO  testcases.ValidateSportMenuItem - Element text taken
+17:06:14.653 [TestNG-test=Price validation-2] INFO  testcases.ValidateSportMenuItem - Menu item text is validated
+17:06:15.033 [TestNG-test=Price validation-1] INFO  testcases.ValidateOtherMenuItem - Base url is open
+17:06:15.119 [TestNG-test=Price validation-1] INFO  testcases.ValidateOtherMenuItem - Element text taken
+17:06:15.120 [TestNG-test=Price validation-1] INFO  testcases.ValidateOtherMenuItem - Menu item text is validated
+17:06:15.325 [main] INFO  testcases.ValidateMenMenuItem - Driver closed
+17:06:15.524 [main] INFO  testcases.ValidateOtherMenuItem - Driver closed
+17:06:15.676 [main] INFO  testcases.ValidateShoesMenuItem - Driver closed
+17:06:15.825 [main] INFO  testcases.ValidateSportMenuItem - Driver closed
+17:06:15.990 [main] INFO  testcases.ValidateWomanMenuItem - Driver closed
+17:06:18.502 [main] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Driver was initiated
+17:06:20.215 [main] INFO  testcases.ValidateProductPriceCartPage - Driver is initiated
+17:06:22.223 [main] INFO  testcases.ValidateProductPriceOnProductsPage - Driver is initiated
+17:06:24.242 [main] INFO  testcases.ValidateProductPricePlaceOrder - Driver is initiated
+17:06:26.792 [TestNG-test=Menu items text validation-1] INFO  testcases.ValidateProductPriceOnProductsPage - Base url is open
+17:06:26.843 [TestNG-test=Menu items text validation-2] INFO  testcases.ValidateProductPriceCartPage - Base url is open
+17:06:28.579 [TestNG-test=Menu items text validation-1] INFO  testcases.ValidateProductPriceOnProductsPage - Product image as link is clicked
+17:06:28.757 [TestNG-test=Menu items text validation-1] INFO  testcases.ValidateProductPriceOnProductsPage - Price text taken first time
+17:06:28.861 [TestNG-test=Menu items text validation-2] INFO  testcases.ValidateProductPriceCartPage - Product image as link is clicked
+17:06:28.950 [TestNG-test=Menu items text validation-2] INFO  testcases.ValidateProductPriceCartPage - Price text taken first time
+17:06:29.325 [TestNG-test=Menu items text validation-1] INFO  testcases.ValidateProductPriceOnProductsPage - Navigated back
+17:06:29.395 [TestNG-test=Menu items text validation-1] INFO  testcases.ValidateProductPriceOnProductsPage - Price text taken second time
+17:06:29.395 [TestNG-test=Menu items text validation-1] INFO  testcases.ValidateProductPriceOnProductsPage - Price comparison is correct
+17:06:30.999 [TestNG-test=Menu items text validation-2] INFO  testcases.ValidateProductPriceCartPage - Add to cart button is clicked
+17:06:31.085 [TestNG-test=Menu items text validation-2] INFO  testcases.ValidateProductPriceCartPage - Price text taken second time
+17:06:31.207 [TestNG-test=Menu items text validation-1] INFO  testcases.ValidateProductPricePlaceOrder - Base url is open
+17:06:32.892 [TestNG-test=Menu items text validation-1] INFO  testcases.ValidateProductPricePlaceOrder - Product image as link is clicked
+17:06:32.983 [TestNG-test=Menu items text validation-1] INFO  testcases.ValidateProductPricePlaceOrder - Price text taken first time
+17:06:33.013 [TestNG-test=Menu items text validation-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Base url was opened
+17:06:34.411 [TestNG-test=Menu items text validation-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Product image as link is clicked
+17:06:34.484 [TestNG-test=Menu items text validation-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Price text taken first time
+17:06:34.574 [TestNG-test=Menu items text validation-1] INFO  testcases.ValidateProductPricePlaceOrder - Add to cart button is clicked
+17:06:36.003 [TestNG-test=Menu items text validation-1] INFO  testcases.ValidateProductPricePlaceOrder - Proceed to checkout button is clicked
+17:06:36.254 [TestNG-test=Menu items text validation-1] INFO  testcases.ValidateProductPricePlaceOrder - Price text taken second time
+17:06:36.255 [TestNG-test=Menu items text validation-1] INFO  testcases.ValidateProductPricePlaceOrder - Price comparison is correct
+17:06:36.315 [TestNG-test=Menu items text validation-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Add to cart button is clicked
+17:06:37.753 [TestNG-test=Menu items text validation-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Proceed to checkout button is clicked
+17:06:38.056 [TestNG-test=Menu items text validation-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - First name field is filled
+17:06:38.335 [TestNG-test=Menu items text validation-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Last name field is filled
+17:06:38.619 [TestNG-test=Menu items text validation-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Address field is filled
+17:06:38.809 [TestNG-test=Menu items text validation-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Post code field is filled
+17:06:39.010 [TestNG-test=Menu items text validation-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - City name field is filled
+17:06:39.202 [TestNG-test=Menu items text validation-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Phone number field is filled
+17:06:39.378 [TestNG-test=Menu items text validation-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Email field is filled
+17:06:40.006 [TestNG-test=Menu items text validation-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Place order button is clicked
+17:06:41.693 [TestNG-test=Menu items text validation-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Price text taken second time
+17:06:41.693 [TestNG-test=Menu items text validation-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Price comparison is correct
+17:06:41.773 [main] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Driver closed
+17:06:41.881 [main] INFO  testcases.ValidateProductPriceCartPage - Driver closed
+17:06:42.027 [main] INFO  testcases.ValidateProductPriceOnProductsPage - Driver closed
+17:06:42.184 [main] INFO  testcases.ValidateProductPricePlaceOrder - Driver closed
+18:45:28.611 [main] INFO  testcases.ValidateProductPriceCartPage - Driver is initiated
+18:45:31.266 [main] INFO  testcases.ValidateProductPriceCartPage - Base url is open
+18:45:32.568 [main] INFO  testcases.ValidateProductPriceCartPage - Product image as link is clicked
+18:45:32.627 [main] INFO  testcases.ValidateProductPriceCartPage - Price text taken first time
+18:45:33.966 [main] INFO  testcases.ValidateProductPriceCartPage - Add to cart button is clicked
+15:08:05.812 [main] INFO  testcases.ValidateMenMenuItem - Driver is initiated
+15:08:07.602 [main] INFO  testcases.ValidateOtherMenuItem - Driver is initiated
+15:08:09.394 [main] INFO  testcases.ValidateShoesMenuItem - Driver is initiated
+15:08:11.393 [main] INFO  testcases.ValidateSportMenuItem - Driver is initiated
+15:08:13.420 [main] INFO  testcases.ValidateWomanMenuItem - Driver is initiated
+15:08:15.687 [pool-4-thread-2] INFO  testcases.ValidateMenMenuItem - Base url is open
+15:08:15.799 [pool-4-thread-2] INFO  testcases.ValidateMenMenuItem - Element text taken
+15:08:15.944 [pool-4-thread-1] INFO  testcases.ValidateShoesMenuItem - Base url is open
+15:08:16.045 [pool-4-thread-1] INFO  testcases.ValidateShoesMenuItem - Element text taken
+15:08:16.046 [pool-4-thread-1] INFO  testcases.ValidateShoesMenuItem - Menu item text is validated
+15:08:18.020 [pool-4-thread-1] INFO  testcases.ValidateWomanMenuItem - Base url is open
+15:08:18.145 [pool-4-thread-1] INFO  testcases.ValidateWomanMenuItem - Element text taken
+15:08:18.145 [pool-4-thread-1] INFO  testcases.ValidateWomanMenuItem - Menu item text is validated
+15:08:19.139 [pool-4-thread-2] INFO  testcases.ValidateSportMenuItem - Base url is open
+15:08:19.259 [pool-4-thread-2] INFO  testcases.ValidateSportMenuItem - Element text taken
+15:08:19.259 [pool-4-thread-2] INFO  testcases.ValidateSportMenuItem - Menu item text is validated
+15:08:19.979 [pool-4-thread-1] INFO  testcases.ValidateOtherMenuItem - Base url is open
+15:08:20.072 [pool-4-thread-1] INFO  testcases.ValidateOtherMenuItem - Element text taken
+15:08:20.072 [pool-4-thread-1] INFO  testcases.ValidateOtherMenuItem - Menu item text is validated
+15:08:20.298 [main] INFO  testcases.ValidateMenMenuItem - Driver closed
+15:08:20.502 [main] INFO  testcases.ValidateOtherMenuItem - Driver closed
+15:08:20.655 [main] INFO  testcases.ValidateShoesMenuItem - Driver closed
+15:08:20.837 [main] INFO  testcases.ValidateSportMenuItem - Driver closed
+15:08:21.124 [main] INFO  testcases.ValidateWomanMenuItem - Driver closed
+15:08:23.669 [main] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Driver was initiated
+15:08:25.462 [main] INFO  testcases.ValidateProductPriceCartPage - Driver is initiated
+15:08:27.329 [main] INFO  testcases.ValidateProductPriceOnProductsPage - Driver is initiated
+15:08:29.221 [main] INFO  testcases.ValidateProductPricePlaceOrder - Driver is initiated
+15:08:31.105 [pool-5-thread-2] INFO  testcases.ValidateProductPriceCartPage - Base url is open
+15:08:31.181 [pool-5-thread-1] INFO  testcases.ValidateProductPriceOnProductsPage - Base url is open
+15:08:32.782 [pool-5-thread-2] INFO  testcases.ValidateProductPriceCartPage - Product image as link is clicked
+15:08:32.953 [pool-5-thread-2] INFO  testcases.ValidateProductPriceCartPage - Price text taken first time
+15:08:32.972 [pool-5-thread-1] INFO  testcases.ValidateProductPriceOnProductsPage - Product image as link is clicked
+15:08:33.075 [pool-5-thread-1] INFO  testcases.ValidateProductPriceOnProductsPage - Price text taken first time
+15:08:33.508 [pool-5-thread-1] INFO  testcases.ValidateProductPriceOnProductsPage - Navigated back
+15:08:33.580 [pool-5-thread-1] INFO  testcases.ValidateProductPriceOnProductsPage - Price text taken second time
+15:08:33.581 [pool-5-thread-1] INFO  testcases.ValidateProductPriceOnProductsPage - Price comparison is correct
+15:08:34.642 [pool-5-thread-2] INFO  testcases.ValidateProductPriceCartPage - Add to cart button is clicked
+15:08:34.771 [pool-5-thread-2] INFO  testcases.ValidateProductPriceCartPage - Price text taken second time
+15:08:35.559 [pool-5-thread-1] INFO  testcases.ValidateProductPricePlaceOrder - Base url is open
+15:08:36.772 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Base url was opened
+15:08:37.749 [pool-5-thread-1] INFO  testcases.ValidateProductPricePlaceOrder - Product image as link is clicked
+15:08:37.844 [pool-5-thread-1] INFO  testcases.ValidateProductPricePlaceOrder - Price text taken first time
+15:08:38.358 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Product image as link is clicked
+15:08:38.467 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Price text taken first time
+15:08:39.524 [pool-5-thread-1] INFO  testcases.ValidateProductPricePlaceOrder - Add to cart button is clicked
+15:08:40.551 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Add to cart button is clicked
+15:08:40.944 [pool-5-thread-1] INFO  testcases.ValidateProductPricePlaceOrder - Proceed to checkout button is clicked
+15:08:41.094 [pool-5-thread-1] INFO  testcases.ValidateProductPricePlaceOrder - Price text taken second time
+15:08:41.094 [pool-5-thread-1] INFO  testcases.ValidateProductPricePlaceOrder - Price comparison is correct
+15:08:41.926 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Proceed to checkout button is clicked
+15:08:42.243 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - First name field is filled
+15:08:42.469 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Last name field is filled
+15:08:42.730 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Address field is filled
+15:08:42.927 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Post code field is filled
+15:08:43.157 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - City name field is filled
+15:08:43.453 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Phone number field is filled
+15:08:43.682 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Email field is filled
+15:08:44.330 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Place order button is clicked
+15:08:46.218 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Price text taken second time
+15:08:46.218 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Price comparison is correct
+15:08:46.342 [main] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Driver closed
+15:08:46.472 [main] INFO  testcases.ValidateProductPriceCartPage - Driver closed
+15:08:46.600 [main] INFO  testcases.ValidateProductPriceOnProductsPage - Driver closed
+15:08:46.746 [main] INFO  testcases.ValidateProductPricePlaceOrder - Driver closed
+15:09:28.668 [main] INFO  testcases.ValidateMenMenuItem - Driver is initiated
+15:09:30.635 [main] INFO  testcases.ValidateOtherMenuItem - Driver is initiated
+15:09:32.434 [main] INFO  testcases.ValidateShoesMenuItem - Driver is initiated
+15:09:34.457 [main] INFO  testcases.ValidateSportMenuItem - Driver is initiated
+15:09:36.516 [main] INFO  testcases.ValidateWomanMenuItem - Driver is initiated
+15:09:38.893 [pool-4-thread-1] INFO  testcases.ValidateShoesMenuItem - Base url is open
+15:09:38.938 [pool-4-thread-2] INFO  testcases.ValidateMenMenuItem - Base url is open
+15:09:39.031 [pool-4-thread-1] INFO  testcases.ValidateShoesMenuItem - Element text taken
+15:09:39.034 [pool-4-thread-1] INFO  testcases.ValidateShoesMenuItem - Menu item text is validated
+15:09:39.048 [pool-4-thread-2] INFO  testcases.ValidateMenMenuItem - Element text taken
+15:09:40.859 [pool-4-thread-1] INFO  testcases.ValidateWomanMenuItem - Base url is open
+15:09:41.033 [pool-4-thread-1] INFO  testcases.ValidateWomanMenuItem - Element text taken
+15:09:41.034 [pool-4-thread-1] INFO  testcases.ValidateWomanMenuItem - Menu item text is validated
+15:09:42.478 [pool-4-thread-2] INFO  testcases.ValidateSportMenuItem - Base url is open
+15:09:42.616 [pool-4-thread-2] INFO  testcases.ValidateSportMenuItem - Element text taken
+15:09:42.617 [pool-4-thread-2] INFO  testcases.ValidateSportMenuItem - Menu item text is validated
+15:09:43.089 [pool-4-thread-1] INFO  testcases.ValidateOtherMenuItem - Base url is open
+15:09:43.187 [pool-4-thread-1] INFO  testcases.ValidateOtherMenuItem - Element text taken
+15:09:43.187 [pool-4-thread-1] INFO  testcases.ValidateOtherMenuItem - Menu item text is validated
+15:09:43.762 [main] INFO  testcases.ValidateMenMenuItem - Driver closed
+15:09:43.977 [main] INFO  testcases.ValidateOtherMenuItem - Driver closed
+15:09:44.287 [main] INFO  testcases.ValidateShoesMenuItem - Driver closed
+15:09:44.529 [main] INFO  testcases.ValidateSportMenuItem - Driver closed
+15:09:44.734 [main] INFO  testcases.ValidateWomanMenuItem - Driver closed
+15:09:47.234 [main] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Driver was initiated
+15:09:48.979 [main] INFO  testcases.ValidateProductPriceCartPage - Driver is initiated
+15:09:50.980 [main] INFO  testcases.ValidateProductPriceOnProductsPage - Driver is initiated
+15:09:53.181 [main] INFO  testcases.ValidateProductPricePlaceOrder - Driver is initiated
+15:09:55.180 [pool-5-thread-1] INFO  testcases.ValidateProductPriceOnProductsPage - Base url is open
+15:09:55.260 [pool-5-thread-2] INFO  testcases.ValidateProductPriceCartPage - Base url is open
+15:09:57.142 [pool-5-thread-2] INFO  testcases.ValidateProductPriceCartPage - Product image as link is clicked
+15:09:57.211 [pool-5-thread-2] INFO  testcases.ValidateProductPriceCartPage - Price text taken first time
+15:09:57.621 [pool-5-thread-1] INFO  testcases.ValidateProductPriceOnProductsPage - Product image as link is clicked
+15:09:57.697 [pool-5-thread-1] INFO  testcases.ValidateProductPriceOnProductsPage - Price text taken first time
+15:09:58.185 [pool-5-thread-1] INFO  testcases.ValidateProductPriceOnProductsPage - Navigated back
+15:09:58.282 [pool-5-thread-1] INFO  testcases.ValidateProductPriceOnProductsPage - Price text taken second time
+15:09:58.282 [pool-5-thread-1] INFO  testcases.ValidateProductPriceOnProductsPage - Price comparison is correct
+15:09:58.739 [pool-5-thread-2] INFO  testcases.ValidateProductPriceCartPage - Add to cart button is clicked
+15:09:58.916 [pool-5-thread-2] INFO  testcases.ValidateProductPriceCartPage - Price text taken second time
+15:10:00.517 [pool-5-thread-1] INFO  testcases.ValidateProductPricePlaceOrder - Base url is open
+15:10:00.886 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Base url was opened
+15:10:02.159 [pool-5-thread-1] INFO  testcases.ValidateProductPricePlaceOrder - Product image as link is clicked
+15:10:02.282 [pool-5-thread-1] INFO  testcases.ValidateProductPricePlaceOrder - Price text taken first time
+15:10:02.680 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Product image as link is clicked
+15:10:02.777 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Price text taken first time
+15:10:04.105 [pool-5-thread-1] INFO  testcases.ValidateProductPricePlaceOrder - Add to cart button is clicked
+15:10:04.276 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Add to cart button is clicked
+15:10:05.575 [pool-5-thread-1] INFO  testcases.ValidateProductPricePlaceOrder - Proceed to checkout button is clicked
+15:10:05.745 [pool-5-thread-1] INFO  testcases.ValidateProductPricePlaceOrder - Price text taken second time
+15:10:05.745 [pool-5-thread-1] INFO  testcases.ValidateProductPricePlaceOrder - Price comparison is correct
+15:10:05.749 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Proceed to checkout button is clicked
+15:10:06.068 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - First name field is filled
+15:10:06.288 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Last name field is filled
+15:10:06.529 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Address field is filled
+15:10:06.709 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Post code field is filled
+15:10:06.896 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - City name field is filled
+15:10:07.176 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Phone number field is filled
+15:10:07.417 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Email field is filled
+15:10:08.063 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Place order button is clicked
+15:10:09.744 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Price text taken second time
+15:10:09.745 [pool-5-thread-2] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Price comparison is correct
+15:10:09.841 [main] INFO  testcases.ValidateProductPriceAfterPlaceOrder - Driver closed
+15:10:09.979 [main] INFO  testcases.ValidateProductPriceCartPage - Driver closed
+15:10:10.109 [main] INFO  testcases.ValidateProductPriceOnProductsPage - Driver closed
+15:10:10.249 [main] INFO  testcases.ValidateProductPricePlaceOrder - Driver closed
+09:58:41.260 [main] INFO  testcases.ValidateShoesMenuItem - Driver is initiated
+09:58:46.120 [TestNG-test=Price validation-1] INFO  testcases.ValidateShoesMenuItem - Base url is open
+09:58:46.165 [TestNG-test=Price validation-1] INFO  testcases.ValidateShoesMenuItem - Element text taken
+09:58:46.167 [TestNG-test=Price validation-1] INFO  testcases.ValidateShoesMenuItem - Menu item text is validated
+09:58:46.239 [main] INFO  testcases.ValidateShoesMenuItem - Driver closed
+10:03:18.326 [main] INFO  testcases.ValidateShoesMenuItem - Driver is initiated
+10:03:21.669 [TestNG-test=Price validation-1] INFO  testcases.ValidateShoesMenuItem - Base url is open
+10:03:21.716 [TestNG-test=Price validation-1] INFO  testcases.ValidateShoesMenuItem - Element text taken
+10:03:21.718 [TestNG-test=Price validation-1] INFO  testcases.ValidateShoesMenuItem - Menu item text is validated
+10:03:21.810 [main] INFO  testcases.ValidateShoesMenuItem - Driver closed
+10:52:18.083 [main] INFO  testcases.ValidateShoesMenuItem - Driver is initiated
+10:52:26.573 [TestNG-test=Price validation-1] INFO  testcases.ValidateShoesMenuItem - Base url is open
+10:52:26.634 [TestNG-test=Price validation-1] INFO  testcases.ValidateShoesMenuItem - Element text taken
+10:52:26.636 [TestNG-test=Price validation-1] INFO  testcases.ValidateShoesMenuItem - Menu item text is validated
+10:52:26.743 [main] INFO  testcases.ValidateShoesMenuItem - Driver closed
